@@ -250,6 +250,7 @@ header .follow a:hover{
     color:#666;
     font-size: 1.7rem;
     padding:.5rem 0;
+    text-transform: None;
 }
 
 .about .row-1 .content .box-container{
